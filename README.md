@@ -1,2 +1,15 @@
-# titanic-data-analysis
-perform exploratory data analysis on the titanic data and understand which features would be useful for the predictions of dependent variable.
+# Titanic-data-analysis
+
+Perform Exploratory Data Analysis on the Titanic data and understand which features would be useful for the prediction of dependent variable.
+
+
+
+
+
+
+
+
+
+
+
+
